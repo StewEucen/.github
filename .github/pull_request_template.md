@@ -1,7 +1,7 @@
 ## Why
 
-* Close #000
+Complete the issue
+
+* #000
 
 ## Note
-
-* 
