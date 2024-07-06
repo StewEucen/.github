@@ -9,13 +9,12 @@ assignees: ''
 
 ## Purpose
 
-* 
+
 
 ## Effect
 
-* 
+
 
 ## How
 
-* 
 
