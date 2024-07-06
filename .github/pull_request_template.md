@@ -2,6 +2,6 @@
 
 Complete the issue
 
-* #000
+* Close #000
 
 ## Note
