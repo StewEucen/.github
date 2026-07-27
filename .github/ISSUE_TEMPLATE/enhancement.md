@@ -1,16 +1,16 @@
 ---
-name: '🛠 Enhancement'
-about: Enhancement (Implement / Declaration) Issue
-title: '🛠 '
+name: '💪 Enhancement'
+about: Enhancement Issue
+title: '💪 '
 labels: ''
 assignees: ''
 
 ---
 
-## Overview
+# Note
 
+* 
 
-
-## Tasks
+# Tasks
 
 - [ ] 

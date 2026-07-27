@@ -1,16 +1,16 @@
 ---
-name: '💪 Refactoring'
-about: Refactoring (Improvement) Issue
-title: '💪 '
+name: '🚧 Refactoring'
+about: Refactoring Issue
+title: '🚧 '
 labels: ''
 assignees: ''
 
 ---
 
-## Overview
+# Note
 
+* 
 
-
-## Tasks
+# Tasks
 
 - [ ] 
