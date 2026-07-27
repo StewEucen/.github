@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-## Overview
+# Note
 
 Build development environment
 
-## Tasks
+# Tasks
 
 - [ ] ⚙️ Setup `.gitignore`
 - [ ] ⚙️ Setup `.vscode/settings.json`

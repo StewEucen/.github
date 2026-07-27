@@ -1,7 +1,7 @@
 ---
-name: '✅ Tasks'
-about: Tasks Issue
-title: '✅ '
+name: '🧩 Type'
+about: Type Issue
+title: '🧩 '
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: '✅ Tasks'
-about: Tasks Issue
-title: '✅ '
+name: '🚚 Migrate'
+about: Migrate
+title: '🚚 '
 labels: ''
 assignees: ''
 
